@@ -1,0 +1,19 @@
+{
+  "name": "licensure",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxdeviant/licensure.git"
+  },
+  "author": "Marshall Bowers <elliott.codes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxdeviant/licensure/issues"
+  },
+  "homepage": "https://github.com/maxdeviant/licensure"
+}
