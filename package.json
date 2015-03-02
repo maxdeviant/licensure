@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/maxdeviant/licensure/issues"
   },
-  "homepage": "https://github.com/maxdeviant/licensure"
+  "homepage": "https://github.com/maxdeviant/licensure",
+  "dependencies": {
+    "node-dir": "^0.1.6",
+    "q": "^1.2.0"
+  }
 }
